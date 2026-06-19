@@ -1,0 +1,11 @@
+影片总数: 2000
+详情页数量: 2000
+分类分布:
+- 动作冒险 (action-adventure): 250
+- 科幻悬疑 (sci-fi-suspense): 250
+- 爱情家庭 (romance-family): 250
+- 喜剧动画 (comedy-animation): 250
+- 都市剧情 (drama-urban): 250
+- 古装武侠 (costume-wuxia): 250
+- 犯罪惊悚 (crime-thriller): 250
+- 全球精选 (global-selection): 250
